@@ -1,0 +1,10 @@
+"name": "Stakeprotocal Token",
+    "website": "stakeprotocal.com",
+    "description": "THE NEXT-GEN OF FINANCE Built for the community. Simply hold STK to join the journey and experience all of the benefits of Stakeprotocal.",
+    "explorer": "https://bscscan.com/token/0x31ea733a33aa9f7a4372f349b4a68cceaa10c092",
+    "type": "BEP20",
+    "symbol": "STK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x31ea733a33aa9f7a4372f349b4a68cceaa10c092"
+}
